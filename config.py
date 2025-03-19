@@ -16,7 +16,7 @@ WINDOW_HEIGHT = 600
 
 # Window CAption
 
-TITLE = 'My Pygame Project'
+TITLE = 'Move Rectangles With Keys'
 
 # Frame rate
 FPS = 60
